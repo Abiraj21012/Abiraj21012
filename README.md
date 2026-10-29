@@ -131,21 +131,22 @@ A portfolio showcasing my software development work, skills, and projects. [Visi
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <table align="center">
 <tr>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub stats" /></td>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" /></td>
-</tr>
-<tr>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" alt="Top languages by repo" /></td>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" alt="Most commit language" /></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="60%" alt="Productive time" /></td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abiraj21012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&include_all_commits=true" width="100%" alt="GitHub Stats" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abiraj21012&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Contribution Streak" />
+</td>
 </tr>
 </table>
+
+---
 
 ---
 
