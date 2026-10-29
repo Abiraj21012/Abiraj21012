@@ -145,6 +145,15 @@ A portfolio showcasing my software development work, skills, and projects. [Visi
 </tr>
 </table>
 
+<!-- BOTTOM RIGHT: Profile summary statistics -->
+<td width="50%" align="center" valign="top">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abiraj21012&theme=tokyonight"
+    alt="My GitHub Summary Stats"
+    width="100%"
+  />
+</td>
+
 ---
 
 <h2 align="center">🐍 Contribution Snake</h2>
