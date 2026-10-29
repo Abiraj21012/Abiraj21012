@@ -49,58 +49,6 @@ Career goal: Grow into a professional who can analyze data, build reliable data 
 </tr>
 </table>
 
-<h2 align="center">🎯 Areas of Interest</h2>
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-📊 Data Analytics
-
-SQL querying
-
-Data cleaning
-
-Exploratory data analysis
-
-Excel reporting
-
-Business insights
-
-</td>
-<td width="33%" align="center" valign="top">
-
-⚙️ Data Engineering
-
-ETL/ELT concepts
-
-Python data processing
-
-Relational databases
-
-Data transformation
-
-Cloud data platforms
-
-</td>
-<td width="33%" align="center" valign="top">
-
-💻 Software Engineering
-
-Application development
-
-REST API integration
-
-Database-driven systems
-
-Full-stack development
-
-Problem-solving
-
-</td>
-</tr>
-</table>
-
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
