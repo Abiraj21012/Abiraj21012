@@ -133,18 +133,57 @@ A portfolio showcasing my software development work, skills, and projects. [Visi
 
 ---
 
+---
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <table align="center">
 <tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abiraj21012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&include_all_commits=true" width="100%" alt="GitHub Stats" />
+<td width="50%" align="center" valign="top">
+
+### 🏆 GitHub Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abiraj21012&theme=tokyonight" width="100%" alt="GitHub statistics" />
+
 </td>
-<td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abiraj21012&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Contribution Streak" />
+<td width="50%" align="center" valign="top">
+
+### 🔥 Contributions & Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abiraj21012&theme=tokyonight&hide_border=true" width="100%" alt="Contribution streak" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiraj21012&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Most used languages" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 📈 My GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=abiraj21012&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="My GitHub stats" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 📂 Languages by Repository
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abiraj21012&theme=tokyonight" width="65%" alt="Languages by repository" />
+
 </td>
 </tr>
 </table>
+
+---
+
+
 
 ---
 
