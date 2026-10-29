@@ -1,26 +1,133 @@
-<h1 align="center">Hi there 👋, I'm Rajeshwaran Abiraj</h1>
-<h3 align="center">I build data-driven solutions.</h3>
+# 👋 Hi, I'm Rajeshwaran Abiraj
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abiraj21012&label=Profile%20views&color=0e75b6&style=flat" alt="abiraj21012" /> </p>
+### Aspiring Data Engineer | Data Analytics | SQL & Python | Software Development
 
-- 🔭 I’m currently working on **Data analysis SQL**
+I’m an IT professional with experience in business process analysis, IT support, reporting, and software development. I enjoy transforming raw data into meaningful insights, solving practical problems, and building solutions that connect technology with business needs.
 
-- 🌱 I’m currently learning **SQL,Python,AWS,Azure**
+Currently, I’m strengthening my skills in **Data Engineering, SQL, Python, data cleaning, ETL workflows, and analytics** while building practical projects to develop my technical expertise.
 
-- 👨‍💻 All of my projects are available at [https://abiraj-portfolio.vercel.app/](https://abiraj-portfolio.vercel.app/)
+- 🔭 **Currently working on:** Data analytics projects, SQL practice, and full-stack applications
+- 🌱 **Currently learning:** Data Engineering, ETL/ELT pipelines, advanced SQL, and Python for data processing
+- 📊 **Interested in:** Data Engineering, Data Analytics, Business Intelligence, and Cloud Technologies
+- 💡 **My approach:** Understand the problem, analyze the requirements, choose the right tools, and build a practical solution
+- 🌐 **Portfolio:** [abiraj-portfolio.vercel.app](https://abiraj-portfolio.vercel.app/)
+- 📄 **Resume:** [View my CV](https://drive.google.com/file/d/1zpgayrdKIKKj0zKIjLgT7K_WCRIk0uVY/view?usp=sharing)
+- 📫 **Email:** abirajkushaul@gmail.com
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rajeshwaran-abiraj-a3565a255/)
 
-- 📫 How to reach me **abirajkushaul@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zpgayrdKIKKj0zKIjLgT7K_WCRIk0uVY/view?usp=sharing](https://drive.google.com/file/d/1zpgayrdKIKKj0zKIjLgT7K_WCRIk0uVY/view?usp=sharing)
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rajeshwaran abiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshwaran abiraj" height="30" width="40" /></a>
-</p>
+### Data Engineering & Analytics
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiraj21012&show_icons=true&locale=en&layout=compact" alt="abiraj21012" /></p>
+### Software Development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abiraj21012&show_icons=true&locale=en" alt="abiraj21012" /></p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 SQL Data Analysis — ShopEase
+
+A practical SQL learning project focused on exploring business data and answering analytical questions.
+
+- Query relational data using joins, subqueries, and common table expressions (CTEs).
+- Analyze customer spending, orders, and product performance.
+- Apply aggregations, `CASE` expressions, and window functions.
+- Practice data cleaning and exploratory analysis.
+
+**Tech:** MySQL, SQL
+
+### 🛍️ Amore — E-Commerce Platform
+
+A full-stack e-commerce project for women's innerwear, combining customer-facing shopping functionality with administration and business reporting.
+
+- Product browsing and account-based ordering workflows.
+- Administrative inventory and stock reporting features.
+- Database integration and application development.
+- Business-focused functionality for managing an online store.
+
+**Tech:** React, JavaScript, SQL/database technologies
+
+### 💻 Personal Portfolio
+
+A portfolio showcasing my software development work, technical skills, and projects.
+
+- Present projects and professional information.
+- Demonstrate front-end development and deployment experience.
+- Provide a central place to explore my work.
+
+**Tech:** Web development, Vercel
+
+🔗 Explore more projects on my [GitHub profile](https://github.com/abiraj21012).
+
+---
+
+## 💼 Professional Experience
+
+**Business Process Analyst & IT Help Desk Intern**
+
+- Prepared business reports and dashboards using Excel.
+- Supported sales and financial reporting for business teams and management.
+- Provided IT support to more than 50 internal users.
+- Assisted with hardware and software setup, troubleshooting, and process documentation.
+- Developed an understanding of business requirements, operational workflows, and problem-solving.
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abiraj21012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abiraj21012&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abiraj21012&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 My Current Focus
+
+- Building practical SQL and Python data projects.
+- Improving data cleaning, transformation, and analytical problem-solving.
+- Learning how to design reliable ETL/ELT pipelines.
+- Exploring cloud data platforms and modern data engineering tools.
+- Writing readable, maintainable code and documenting projects clearly.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm interested in connecting with developers, data professionals, mentors, and people working on meaningful technology projects.
+
+**Let's learn, build, and turn data into useful solutions.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://abiraj-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeshwaran-abiraj-a3565a255/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abirajkushaul@gmail.com)
+
+---
+
+*“Learn continuously. Solve real problems. Build with purpose.”*
