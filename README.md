@@ -131,24 +131,26 @@ A portfolio showcasing my software development work, skills, and projects. [Visi
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats &amp; Activity</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abiraj21012&theme=dark&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="streak" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abiraj21012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiraj21012&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abiraj21012&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" width="100%" alt="activity graph" />
-</p>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abiraj21012&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" width="100%" alt="GitHub stats" />
+</td>
+<td width="50%" align="center">
+  <img src="https://streak-stats.demolab.com?user=abiraj21012&theme=tokyonight&border_radius=10" width="100%" alt="GitHub streak" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiraj21012&theme=tokyonight&langs_count=6&border_radius=10" width="100%" alt="Most used languages" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abiraj21012&theme=tokyo-night&area=true&hide_border=false&custom_title=Contribution%20Activity" width="100%" alt="Activity graph" />
+</td>
+</tr>
+</table>
 
 ---
 
