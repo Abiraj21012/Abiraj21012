@@ -1,51 +1,86 @@
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rajeshwaran%20Abiraj&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Data%20Engineer%20%7C%20SQL%20%26%20Python%20%7C%20Software%20Developer&descSize=16&descAlignY=58" width="100%" alt="header" />
+<img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/assets/banner.svg" width="100%" alt="banner" />
+
+</div>
+
+<h2 align="center">Hi 👋, I'm Rajeshwaran Abiraj</h2>
+
+<div align="center">
+
+<h4>Aspiring Data Engineer</h4>
 
 <a href="https://github.com/abiraj21012">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+meaningful+insights;Learning+ETL%2FELT+pipelines+%26+advanced+SQL;Building+full-stack+apps+with+React+%26+Node.js;Learn+continuously.+Solve+real+problems." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Just+Query+It.;Clean+%E2%86%92+Transform+%E2%86%92+Load;SQL+%7C+Python+%7C+ETL+%7C+Analytics" alt="typing" />
 </a>
 
-<br/>
-
-<a href="https://abiraj-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/rajeshwaran-abiraj-a3565a255/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/1zpgayrdKIKKj0zKIjLgT7K_WCRIk0uVY/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View_CV-FF6C37?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-<a href="mailto:abirajkushaul@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=abiraj21012&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/abiraj21012?style=for-the-badge&logo=github&color=181717" alt="followers" />
+<p>Turning raw data into meaningful insights with clean, practical solutions.</p>
 
 </div>
 
 ---
 
-## 👋 About Me
+<h2 align="center">🚀 About Me</h2>
 
-I'm an IT professional with experience in **business process analysis, IT support, reporting, and software development**. I enjoy transforming raw data into meaningful insights, solving practical problems, and building solutions that connect technology with business needs.
+<table>
+<tr>
+<td width="62%" valign="top">
 
-| | |
-|---|---|
-| 🔭 **Working on** | Data analytics projects, SQL practice, full-stack applications |
-| 🌱 **Learning** | Data Engineering, ETL/ELT pipelines, advanced SQL, Python for data processing |
-| 📊 **Interested in** | Data Engineering, Analytics, Business Intelligence, Cloud |
-| 💡 **My approach** | Understand the problem → analyze requirements → choose the right tools → build a practical solution |
+**Abiraj** here, an IT professional with experience in **business process analysis, IT support, reporting, and software development**.
+
+I enjoy turning raw data into meaningful insights and building solutions that connect technology with real business needs.
+
+Currently, I'm learning **Data Engineering, advanced SQL, Python, ETL/ELT pipelines**, and data cleaning, while building practical analytics and full-stack projects.
+
+My goal is simple: **build reliable data pipelines, write clean code, and grow into a data engineer who creates systems that last.**
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/assets/pipeline.svg" width="260" alt="ETL pipeline animation" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎮 Click to Explore
+<h2 align="center">🤝 Connect</h2>
 
-> Expand the sections below to dig deeper 👇
+<p align="center">
+  <a href="https://github.com/abiraj21012"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/rajeshwaran-abiraj-a3565a255/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" /></a>&nbsp;
+  <a href="mailto:abirajkushaul@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" /></a>&nbsp;
+  <a href="https://abiraj-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" /></a>
+</p>
+
+<p align="center">
+  <a href="https://abiraj-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1zpgayrdKIKKj0zKIjLgT7K_WCRIk0uVY/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View_CV-FF6C37?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,pandas,java,js&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,mongodb,firebase&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" />
+</p>
+
+<p align="center"><sub>Also: Microsoft Excel (reports &amp; dashboards) · Business Process Analysis · IT Support</sub></p>
+
+---
+
+<h2 align="center">🛠️ Featured Projects <sub>(click to expand)</sub></h2>
 
 <details>
-<summary><b>🚀 Featured Projects</b> &nbsp;<i>(click to expand)</i></summary>
-<br/>
-
-<details>
-<summary>📊 <b>SQL Data Analysis — ShopEase</b></summary>
+<summary><b>📊 SQL Data Analysis — ShopEase</b></summary>
 <br/>
 
 A practical SQL project focused on exploring business data and answering analytical questions.
@@ -55,176 +90,82 @@ A practical SQL project focused on exploring business data and answering analyti
 - Aggregations, `CASE` expressions, and window functions
 - Data cleaning and exploratory analysis
 
-**Tech:** `MySQL` `SQL`
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" />
 
 </details>
 
 <details>
-<summary>🛍️ <b>Amore — E-Commerce Platform</b></summary>
+<summary><b>🛍️ Amore — E-Commerce Platform</b></summary>
 <br/>
 
-A full-stack e-commerce project for women's innerwear, combining customer shopping with admin and business reporting.
+A full-stack e-commerce project for women's innerwear with customer shopping, admin inventory, and business reporting.
 
 - Product browsing and account-based ordering workflows
 - Admin inventory and stock reporting features
 - Database integration and application development
-- Business-focused store management functionality
 
-**Tech:** `React` `JavaScript` `SQL`
-
-</details>
-
-<details>
-<summary>💻 <b>Personal Portfolio</b></summary>
-<br/>
-
-A portfolio showcasing my software development work, skills, and projects.
-
-- Presents projects and professional information
-- Demonstrates front-end development and deployment
-- 🔗 [Visit the live site](https://abiraj-portfolio.vercel.app/)
-
-**Tech:** `Web Development` `Vercel`
-
-</details>
-
-🔗 More on my [GitHub profile](https://github.com/abiraj21012?tab=repositories)
+<img src="https://skillicons.dev/icons?i=react,js,mysql&theme=dark" height="40" />
 
 </details>
 
 <details>
-<summary><b>💼 Professional Experience</b> &nbsp;<i>(click to expand)</i></summary>
+<summary><b>💻 Personal Portfolio</b></summary>
 <br/>
 
-**Business Process Analyst & IT Help Desk Intern**
+A portfolio showcasing my software development work, skills, and projects. [Visit the live site](https://abiraj-portfolio.vercel.app/)
 
-- 📈 Prepared business reports and dashboards using Excel
-- 💰 Supported sales and financial reporting for teams and management
-- 🖥️ Provided IT support to **50+ internal users**
-- 🔧 Assisted with hardware/software setup, troubleshooting, and process documentation
-- 🧭 Built an understanding of business requirements and operational workflows
+<img src="https://skillicons.dev/icons?i=react,vercel&theme=dark" height="40" />
 
 </details>
 
 <details>
-<summary><b>🎯 Current Focus & Goals</b> &nbsp;<i>(click to expand)</i></summary>
+<summary><b>💼 Professional Experience: Business Process Analyst &amp; IT Help Desk Intern</b></summary>
 <br/>
 
-- [x] Build practical SQL and Python data projects
-- [x] Practice data cleaning and transformation
-- [ ] Design reliable ETL/ELT pipelines
-- [ ] Explore cloud data platforms and modern data engineering tools
-- [ ] Write readable, maintainable, well-documented code
-
-</details>
-
-<details>
-<summary><b>🎲 Fun Fact Generator</b> &nbsp;<i>(click to reveal)</i></summary>
-<br/>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-
-<sub>🔄 A new quote loads each time the page is refreshed</sub>
-
-</div>
-
-</details>
-
-<details>
-<summary><b>❓ Quick Q&A</b> &nbsp;<i>(click to expand)</i></summary>
-<br/>
-
-**Q: What are you looking for?**
-Opportunities in Data Engineering and Analytics, plus mentors and collaborators.
-
-**Q: What's your go-to stack?**
-Python + SQL (MySQL/PostgreSQL) + Pandas for data; React + Node.js for apps.
-
-**Q: How can I reach you?**
-Email [abirajkushaul@gmail.com](mailto:abirajkushaul@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/rajeshwaran-abiraj-a3565a255/).
+- Prepared business reports and dashboards using Excel
+- Supported sales and financial reporting for teams and management
+- Provided IT support to **50+ internal users**
+- Assisted with hardware/software setup, troubleshooting, and documentation
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abiraj21012&theme=dark&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="streak" />
+</p>
 
-**Data Engineering & Analytics**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-
-**Software Development**
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-**Tools & Platforms**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abiraj21012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiraj21012&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📈 GitHub Activity
+<h2 align="center">📈 Activity Graph</h2>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abiraj21012&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="GitHub Activity Graph" width="100%" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abiraj21012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiraj21012&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=abiraj21012&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abiraj21012&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" width="100%" alt="activity graph" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abiraj21012/abiraj21012/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abiraj21012/abiraj21012/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/output/github-snake.svg" />
 </picture>
-
-</div>
+</p>
 
 ---
 
-## 🤝 Let's Connect!
+<p align="center"><i>“Learn continuously. Solve real problems. Build with purpose.”</i></p>
 
-I'm interested in connecting with developers, data professionals, mentors, and people working on meaningful technology projects.
-
-**Let's learn, build, and turn data into useful solutions.**
-
-<div align="center">
-
-<i>“Learn continuously. Solve real problems. Build with purpose.”</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abiraj21012&label=Profile+Views&color=6C63FF&style=flat-square" />
+</p>
