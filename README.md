@@ -131,24 +131,19 @@ A portfolio showcasing my software development work, skills, and projects. [Visi
 
 ---
 
-<h2 align="center">📊 GitHub Stats &amp; Activity</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <table align="center">
 <tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abiraj21012&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" width="100%" alt="GitHub stats" />
-</td>
-<td width="50%" align="center">
-  <img src="https://streak-stats.demolab.com?user=abiraj21012&theme=tokyonight&border_radius=10" width="100%" alt="GitHub streak" />
-</td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub stats" /></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" /></td>
 </tr>
 <tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiraj21012&theme=tokyonight&langs_count=6&border_radius=10" width="100%" alt="Most used languages" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abiraj21012&theme=tokyo-night&area=true&hide_border=false&custom_title=Contribution%20Activity" width="100%" alt="Activity graph" />
-</td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" alt="Top languages by repo" /></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" alt="Most commit language" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="60%" alt="Productive time" /></td>
 </tr>
 </table>
 
