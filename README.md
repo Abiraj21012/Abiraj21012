@@ -140,7 +140,7 @@ A portfolio showcasing my software development work, skills, and projects. [Visi
 </tr>
 <tr>
 <td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/cards/top-langs.svg" width="100%" alt="Most used languages" /></td>
-<td width="50%" align="center" valign="middle"><sub>📈 Updated automatically every 6 hours</sub></td>
+<td width="50%" align="center" valign="middle"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/cards/activity.svg" width="100%" alt="Contribution activity graph" /></td>
 </tr>
 </table>
 
