@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/assets/banner.svg" width="100%" alt="banner" />
 
@@ -8,15 +8,17 @@
 
 <div align="center">
 
-<h3>Data Analytics | Data Engineering | Software Development</h3>
+<h4>Aspiring Data Engineer</h4>
 
 <a href="https://github.com/abiraj21012">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights;Building+Reliable+Data+Pipelines;Developing+Practical+Software+Solutions;SQL+%7C+Python+%7C+Analytics+%7C+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Just+Query+It.;Clean+%E2%86%92+Transform+%E2%86%92+Load;SQL+%7C+Python+%7C+ETL+%7C+Analytics" alt="typing" />
 </a>
 
-<p>Analyzing data, building data-driven solutions, and developing software that solves real-world problems.</p>
+<p>Turning raw data into meaningful insights with clean, practical solutions.</p>
 
 </div>
+
+---
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -24,30 +26,24 @@
 <tr>
 <td width="62%" valign="top">
 
-I'm an IT professional with experience in business process analysis, data reporting, IT support, and software development.
+**Abiraj** here, an IT professional with experience in **business process analysis, IT support, reporting, and software development**.
 
-I enjoy understanding business problems, working with data, and building practical technology solutions. My experience preparing Excel reports and dashboards has helped me understand how data supports business decisions.
+I enjoy turning raw data into meaningful insights and building solutions that connect technology with real business needs.
 
-I'm currently developing my skills across three connected areas:
+Currently, I'm learning **Data Engineering, advanced SQL, Python, ETL/ELT pipelines**, and data cleaning, while building practical analytics and full-stack projects.
 
-📊 Data Analytics: SQL, Excel, data cleaning, exploratory analysis, and business reporting.
-
-⚙️ Data Engineering: Python, database design, ETL/ELT concepts, and data transformation.
-
-💻 Software Engineering: Java, JavaScript, web application development, APIs, and database integration.
-
-My approach is to understand the requirements first, choose appropriate technologies, and build solutions that are reliable, maintainable, and useful.
-
-Career goal: Grow into a professional who can analyze data, build reliable data pipelines, and develop software that turns business requirements into working solutions.
+My goal is simple: **build reliable data pipelines, write clean code, and grow into a data engineer who creates systems that last.**
 
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/assets/pipeline.svg" width="260" alt="Data pipeline illustration" />
+<img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/assets/pipeline.svg" width="260" alt="ETL pipeline animation" />
 
 </td>
 </tr>
 </table>
+
+---
 
 <h2 align="center">🤝 Connect</h2>
 
@@ -139,15 +135,12 @@ A portfolio showcasing my software development work, skills, and projects. [Visi
 
 <table align="center">
 <tr>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub stats" /></td>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" /></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/cards/stats.svg" width="100%" alt="GitHub stats" /></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/cards/streak.svg" width="100%" alt="GitHub streak" /></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" alt="Top languages by repo" /></td>
-<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" alt="Most commit language" /></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="60%" alt="Productive time" /></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/abiraj21012/abiraj21012/main/cards/top-langs.svg" width="100%" alt="Most used languages" /></td>
+<td width="50%" align="center" valign="middle"><sub>📈 Updated automatically every 6 hours</sub></td>
 </tr>
 </table>
 
