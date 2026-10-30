@@ -126,7 +126,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="51.58091166481471%">
+      <svg data-testid="lang-progress" width="51.58193752918143%">
         <rect
             height="8"
             fill="#f1e05a"
@@ -145,7 +145,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="18.445957398723092%">
+      <svg data-testid="lang-progress" width="18.445566580740845%">
         <rect
             height="8"
             fill="#3178c6"
@@ -164,7 +164,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="13.013211669209182%">
+      <svg data-testid="lang-progress" width="13.012935955836483%">
         <rect
             height="8"
             fill="#e34c26"
@@ -183,7 +183,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="6.479336560132086%">
+      <svg data-testid="lang-progress" width="6.479199281205002%">
         <rect
             height="8"
             fill="#f7523f"
@@ -202,7 +202,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="5.276898883176074%">
+      <svg data-testid="lang-progress" width="5.276787080523088%">
         <rect
             height="8"
             fill="#4F5D95"
@@ -221,7 +221,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="5.203683823944855%">
+      <svg data-testid="lang-progress" width="5.203573572513154%">
         <rect
             height="8"
             fill="#b07219"
