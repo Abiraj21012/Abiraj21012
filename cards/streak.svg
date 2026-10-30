@@ -1,0 +1,32 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif">
+  <style>
+    @keyframes fade { from { opacity: 0 } to { opacity: 1 } }
+    @keyframes ring { from { stroke-dashoffset: 223.32741228718345 } to { stroke-dashoffset: 0 } }
+    .f { animation: fade 0.8s ease-in-out forwards }
+    .r { animation: ring 1.2s ease-out forwards }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="10" fill="#1a1b27" stroke="#e4e2e2"/>
+  <line x1="173" y1="30" x2="173" y2="165" stroke="#e4e2e2" stroke-opacity="0.5"/>
+  <line x1="322" y1="30" x2="322" y2="165" stroke="#e4e2e2" stroke-opacity="0.5"/>
+  <g class="f">
+  
+    <text x="86.5" y="88" text-anchor="middle" font-size="28" font-weight="700" fill="#70a5fd">223</text>
+    <text x="86.5" y="122" text-anchor="middle" font-size="14" fill="#70a5fd">Total Contributions</text>
+    <text x="86.5" y="147" text-anchor="middle" font-size="12" fill="#9aa5b1">Jul 4, 2025 - Present</text>
+  
+    <text x="408.5" y="88" text-anchor="middle" font-size="28" font-weight="700" fill="#bf91f3">6</text>
+    <text x="408.5" y="122" text-anchor="middle" font-size="14" fill="#70a5fd">Longest Streak</text>
+    <text x="408.5" y="147" text-anchor="middle" font-size="12" fill="#9aa5b1">Feb 8 - Feb 13</text>
+  <text x="247.5" y="90" text-anchor="middle" font-size="28" font-weight="700" fill="#bf91f3">2</text>
+  <text x="247.5" y="143" text-anchor="middle" font-size="14" font-weight="700" fill="#bf91f3">Current Streak</text>
+  <text x="247.5" y="163" text-anchor="middle" font-size="12" fill="#9aa5b1">Oct 29 - Oct 30</text>
+  </g>
+  <g transform="translate(247.5 80)">
+    <circle r="40" fill="none" stroke="#70a5fd" stroke-width="5" stroke-linecap="round"
+      stroke-dasharray="223.32741228718345 28" transform="rotate(-69.94500000000001) " class="r"/>
+    <g transform="translate(0 -40) scale(1.1)">
+      <rect x="-12" y="-12" width="24" height="24" fill="#1a1b27"/>
+      <path d="M0,-10 C4,-4 8,-1 8,4 C8,9 4,12 0,12 C-4,12 -8,9 -8,4 C-8,0 -5,-2 -4,-6 C-2,-4 -1,-6 0,-10Z" fill="none" stroke="#70a5fd" stroke-width="2.5" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
