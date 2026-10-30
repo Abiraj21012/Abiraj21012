@@ -85,7 +85,7 @@ Career goal: Grow into a professional who can analyze data, build reliable data 
 <h2 align="center">🛠️ Featured Projects (click to expand)</h2>
 
 <details>
-<summary><b>📊 SQL Data Analysis — ShopEase</b></summary>
+<summary><b>📊 SQL Data Analysis — World layoffs Data analysis</b></summary>
 <br/>
 
 A practical SQL project focused on exploring business data and answering analytical questions.
