@@ -1,0 +1,45 @@
+name: Generate Profile Cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:         # lets you run it manually
+  push:
+    branches: [main]
+    paths: ["scripts/**"]
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your profile repo
+        uses: actions/checkout@v4
+
+      - name: Checkout github-readme-stats (card renderer)
+        uses: actions/checkout@v4
+        with:
+          repository: anuraghazra/github-readme-stats
+          path: grs
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install --omit=dev --ignore-scripts --no-audit --no-fund --prefix grs
+
+      - name: Generate cards
+        run: node scripts/generate-cards.mjs
+        env:
+          PAT_1: ${{ secrets.PAT_1 }}
+          USERNAME_TO_USE: ${{ github.repository_owner }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cards
+          git diff --cached --quiet || (git commit -m "chore: update profile cards" && git push)
