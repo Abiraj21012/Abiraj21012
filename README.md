@@ -54,10 +54,8 @@ Career goal: Grow into a professional who can analyze data, build reliable data 
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/abiraj21012"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/rajeshwaran-abiraj-a3565a255/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" /></a>&nbsp;
   <a href="mailto:abirajkushaul@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" /></a>&nbsp;
-  <a href="https://abiraj-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" /></a>
 </p>
 
 <p align="center">
@@ -70,7 +68,8 @@ Career goal: Grow into a professional who can analyze data, build reliable data 
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,pandas,java,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,java,js&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,mongodb,firebase&theme=dark" />
@@ -83,7 +82,7 @@ Career goal: Grow into a professional who can analyze data, build reliable data 
 
 ---
 
-<h2 align="center">🛠️ Featured Projects <sub>(click to expand)</sub></h2>
+<h2 align="center">🛠️ Featured Projects (click to expand)</h2>
 
 <details>
 <summary><b>📊 SQL Data Analysis — ShopEase</b></summary>
