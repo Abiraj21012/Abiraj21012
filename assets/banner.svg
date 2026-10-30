@@ -13,7 +13,7 @@
 <rect x="250" y="35" width="400" height="170" rx="6" fill="#0d1117" stroke="#c9d1d9" stroke-width="3"/>
 <rect x="250" y="35" width="400" height="26" rx="6" fill="url(#bar)" opacity="0.9"/>
 <rect x="262" y="43" width="10" height="10" fill="#0d1117"/><rect x="278" y="43" width="10" height="10" fill="#0d1117"/><rect x="294" y="43" width="10" height="10" fill="#0d1117"/>
-<text x="450" y="53" fill="#0d1117" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">abiraj@data-engineer: ~</text>
+<text x="450" y="53" fill="#0d1117" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">abiraj@data-analyst|software-developer ~</text>
 <text x="285" y="105" fill="#c9d1d9" font-family="'Fira Code',Consolas,monospace" font-size="15" opacity="0">$ python etl_pipeline.py
 <animate attributeName="opacity" dur="9s" repeatCount="indefinite" values="0;0;1;1;0" keyTimes="0;0.05;0.09;0.93;1"/></text>
 <text x="285" y="129" fill="#8b949e" font-family="'Fira Code',Consolas,monospace" font-size="15" opacity="0">> extracting raw data...
