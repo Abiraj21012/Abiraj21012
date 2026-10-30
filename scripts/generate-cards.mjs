@@ -1,4 +1,4 @@
-// Generates 3 profile cards (stats, streak, top languages) as SVG files.
+// Generates 4 profile cards (stats, streak, top languages, activity graph) as SVG files.
 // Requires: github-readme-stats checked out in ./grs, and env PAT_1 (a GitHub token).
 import fs from "node:fs";
 import { fetchStats } from "../grs/src/fetchers/stats.js";
@@ -6,6 +6,7 @@ import { fetchTopLanguages } from "../grs/src/fetchers/top-languages.js";
 import { renderStatsCard } from "../grs/src/cards/stats.js";
 import { renderTopLanguages } from "../grs/src/cards/top-languages.js";
 import { computeStreaks, renderStreakCard } from "./streak-card.mjs";
+import { renderActivityCard } from "./activity-card.mjs";
 
 const username = process.env.USERNAME_TO_USE;
 const token = process.env.PAT_1;
@@ -25,7 +26,9 @@ async function gql(query, variables) {
   return json.data;
 }
 
+let cache = null;
 async function loadContributionDays() {
+  if (cache) return cache;
   const meta = await gql(
     `query($login:String!){user(login:$login){createdAt contributionsCollection{contributionYears}}}`,
     { login: username },
@@ -43,7 +46,8 @@ async function loadContributionDays() {
         if (d.date <= today) days.push({ date: d.date, count: d.contributionCount });
   }
   days.sort((a, b) => (a.date < b.date ? -1 : 1));
-  return { days, createdAt: meta.user.createdAt };
+  cache = { days, createdAt: meta.user.createdAt };
+  return cache;
 }
 
 const theme = "tokyonight";
@@ -59,6 +63,10 @@ const jobs = [
   ["streak.svg", async () => {
     const { days, createdAt } = await loadContributionDays();
     return renderStreakCard(computeStreaks(days, createdAt));
+  }],
+  ["activity.svg", async () => {
+    const { days } = await loadContributionDays();
+    return renderActivityCard(days, username);
   }],
 ];
 
