@@ -3,7 +3,7 @@
   <style>@keyframes fade{from{opacity:0}to{opacity:1}} .f{animation:fade .9s ease-in-out forwards}</style>
   <rect x="0.5" y="0.5" width="494" height="289" rx="10" fill="#1a1b27" stroke="#e4e2e2"/>
   <text x="25" y="35" font-size="18" font-weight="600" fill="#70a5fd">Abiraj21012's Contribution Graph</text>
-  <text x="25" y="55" font-size="12" fill="#38bdae">51 contributions in the last 30 days</text>
+  <text x="25" y="55" font-size="12" fill="#38bdae">48 contributions in the last 30 days</text>
   <g>
     <line x1="46" y1="242" x2="469" y2="242" stroke="#2b2d3f"/>
     <text x="36" y="246" text-anchor="end" font-size="11" fill="#9aa5b1">0</text>
@@ -15,40 +15,40 @@
     <text x="36" y="117" text-anchor="end" font-size="11" fill="#9aa5b1">18</text>
     <line x1="46" y1="70" x2="469" y2="70" stroke="#2b2d3f"/>
     <text x="36" y="74" text-anchor="end" font-size="11" fill="#9aa5b1">24</text>
-    <text x="46" y="262" text-anchor="middle" font-size="11" fill="#9aa5b1">Oct 5</text>
+    <text x="46" y="262" text-anchor="middle" font-size="11" fill="#9aa5b1">Oct 6</text>
     
     
     
     
     
-    <text x="133.51724137931035" y="262" text-anchor="middle" font-size="11" fill="#9aa5b1">Oct 11</text>
+    <text x="133.51724137931035" y="262" text-anchor="middle" font-size="11" fill="#9aa5b1">Oct 12</text>
     
     
     
     
     
-    <text x="221.0344827586207" y="262" text-anchor="middle" font-size="11" fill="#9aa5b1">Oct 17</text>
+    <text x="221.0344827586207" y="262" text-anchor="middle" font-size="11" fill="#9aa5b1">Oct 18</text>
     
     
     
     
     
-    <text x="308.55172413793105" y="262" text-anchor="middle" font-size="11" fill="#9aa5b1">Oct 23</text>
+    <text x="308.55172413793105" y="262" text-anchor="middle" font-size="11" fill="#9aa5b1">Oct 24</text>
     
     
     
     
     
-    <text x="396.0689655172414" y="262" text-anchor="middle" font-size="11" fill="#9aa5b1">Oct 29</text>
+    <text x="396.0689655172414" y="262" text-anchor="middle" font-size="11" fill="#9aa5b1">Oct 30</text>
     
     
     
     
-    <text x="469" y="262" text-anchor="middle" font-size="11" fill="#9aa5b1">Nov 3</text>
+    <text x="469" y="262" text-anchor="middle" font-size="11" fill="#9aa5b1">Nov 4</text>
   </g>
   <g class="f">
-    <path d="M46.0 220.5 L60.6 242.0 L75.2 242.0 L89.8 242.0 L104.3 242.0 L118.9 242.0 L133.5 242.0 L148.1 206.2 L162.7 242.0 L177.3 242.0 L191.9 242.0 L206.4 242.0 L221.0 242.0 L235.6 242.0 L250.2 242.0 L264.8 242.0 L279.4 242.0 L294.0 242.0 L308.6 242.0 L323.1 242.0 L337.7 242.0 L352.3 242.0 L366.9 220.5 L381.5 242.0 L396.1 70.0 L410.7 127.3 L425.2 242.0 L439.8 242.0 L454.4 242.0 L469.0 242.0 L469.0 242 L46.0 242 Z" fill="url(#a)"/>
-    <path d="M46.0 220.5 L60.6 242.0 L75.2 242.0 L89.8 242.0 L104.3 242.0 L118.9 242.0 L133.5 242.0 L148.1 206.2 L162.7 242.0 L177.3 242.0 L191.9 242.0 L206.4 242.0 L221.0 242.0 L235.6 242.0 L250.2 242.0 L264.8 242.0 L279.4 242.0 L294.0 242.0 L308.6 242.0 L323.1 242.0 L337.7 242.0 L352.3 242.0 L366.9 220.5 L381.5 242.0 L396.1 70.0 L410.7 127.3 L425.2 242.0 L439.8 242.0 L454.4 242.0 L469.0 242.0" fill="none" stroke="#70a5fd" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-    <circle cx="46.0" cy="220.5" r="3" fill="#bf91f3" stroke="#1a1b27" stroke-width="1.5"/><circle cx="148.1" cy="206.2" r="3" fill="#bf91f3" stroke="#1a1b27" stroke-width="1.5"/><circle cx="366.9" cy="220.5" r="3" fill="#bf91f3" stroke="#1a1b27" stroke-width="1.5"/><circle cx="396.1" cy="70.0" r="3" fill="#bf91f3" stroke="#1a1b27" stroke-width="1.5"/><circle cx="410.7" cy="127.3" r="3" fill="#bf91f3" stroke="#1a1b27" stroke-width="1.5"/>
+    <path d="M46.0 242.0 L60.6 242.0 L75.2 242.0 L89.8 242.0 L104.3 242.0 L118.9 242.0 L133.5 206.2 L148.1 242.0 L162.7 242.0 L177.3 242.0 L191.9 242.0 L206.4 242.0 L221.0 242.0 L235.6 242.0 L250.2 242.0 L264.8 242.0 L279.4 242.0 L294.0 242.0 L308.6 242.0 L323.1 242.0 L337.7 242.0 L352.3 220.5 L366.9 242.0 L381.5 70.0 L396.1 127.3 L410.7 242.0 L425.2 242.0 L439.8 242.0 L454.4 242.0 L469.0 242.0 L469.0 242 L46.0 242 Z" fill="url(#a)"/>
+    <path d="M46.0 242.0 L60.6 242.0 L75.2 242.0 L89.8 242.0 L104.3 242.0 L118.9 242.0 L133.5 206.2 L148.1 242.0 L162.7 242.0 L177.3 242.0 L191.9 242.0 L206.4 242.0 L221.0 242.0 L235.6 242.0 L250.2 242.0 L264.8 242.0 L279.4 242.0 L294.0 242.0 L308.6 242.0 L323.1 242.0 L337.7 242.0 L352.3 220.5 L366.9 242.0 L381.5 70.0 L396.1 127.3 L410.7 242.0 L425.2 242.0 L439.8 242.0 L454.4 242.0 L469.0 242.0" fill="none" stroke="#70a5fd" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="133.5" cy="206.2" r="3" fill="#bf91f3" stroke="#1a1b27" stroke-width="1.5"/><circle cx="352.3" cy="220.5" r="3" fill="#bf91f3" stroke="#1a1b27" stroke-width="1.5"/><circle cx="381.5" cy="70.0" r="3" fill="#bf91f3" stroke="#1a1b27" stroke-width="1.5"/><circle cx="396.1" cy="127.3" r="3" fill="#bf91f3" stroke="#1a1b27" stroke-width="1.5"/>
   </g>
 </svg>
