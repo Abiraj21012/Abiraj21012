@@ -10,16 +10,16 @@
   <line x1="322" y1="30" x2="322" y2="165" stroke="#e4e2e2" stroke-opacity="0.5"/>
   <g class="f">
   
-    <text x="86.5" y="88" text-anchor="middle" font-size="28" font-weight="700" fill="#70a5fd">237</text>
+    <text x="86.5" y="88" text-anchor="middle" font-size="28" font-weight="700" fill="#70a5fd">244</text>
     <text x="86.5" y="122" text-anchor="middle" font-size="14" fill="#70a5fd">Total Contributions</text>
     <text x="86.5" y="147" text-anchor="middle" font-size="12" fill="#9aa5b1">Jul 4, 2025 - Present</text>
   
     <text x="408.5" y="88" text-anchor="middle" font-size="28" font-weight="700" fill="#bf91f3">6</text>
     <text x="408.5" y="122" text-anchor="middle" font-size="14" fill="#70a5fd">Longest Streak</text>
     <text x="408.5" y="147" text-anchor="middle" font-size="12" fill="#9aa5b1">Feb 8 - Feb 13</text>
-  <text x="247.5" y="90" text-anchor="middle" font-size="28" font-weight="700" fill="#bf91f3">0</text>
+  <text x="247.5" y="90" text-anchor="middle" font-size="28" font-weight="700" fill="#bf91f3">1</text>
   <text x="247.5" y="143" text-anchor="middle" font-size="14" font-weight="700" fill="#bf91f3">Current Streak</text>
-  <text x="247.5" y="163" text-anchor="middle" font-size="12" fill="#9aa5b1"></text>
+  <text x="247.5" y="163" text-anchor="middle" font-size="12" fill="#9aa5b1">Nov 4 - Nov 4</text>
   </g>
   <g transform="translate(247.5 80)">
     <circle r="40" fill="none" stroke="#70a5fd" stroke-width="5" stroke-linecap="round"
